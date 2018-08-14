@@ -1,4 +1,4 @@
-# Brain_Tumor_Classification
+# Brain Tumor Classification
 
 ## Repo for tumor classification project
 
